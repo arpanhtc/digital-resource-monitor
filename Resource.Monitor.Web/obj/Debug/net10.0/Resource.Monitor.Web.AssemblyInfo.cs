@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Resource.Monitor.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46925e34afb3bea70cddd0842c13cb6c65142a02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5863c8bd0f379c5a9668b81289077f656d662bb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Resource.Monitor.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Resource.Monitor.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
